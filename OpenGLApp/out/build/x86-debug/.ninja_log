@@ -1,0 +1,11 @@
+# ninja log v5
+17	177	6823710546770516	OpenGLApp/CMakeFiles/HelloWorld.dir/rc/appicon.rc.res	12dac1ee302cd474
+46	196	6823710546947871	OpenGLApp/CMakeFiles/MenuCallback.dir/rc/appicon.rc.res	51dfb500a9e72f28
+0	826	6823710553237527	OpenGLApp/CMakeFiles/HelloWorld.dir/include/Utils.cpp.obj	5619bde773a6af7
+7	827	6823710553227554	OpenGLApp/CMakeFiles/HelloWorld.dir/include/Tutorials/HelloWorld/HelloWorld.cpp.obj	2802112e216dd30d
+39	854	6823710553515064	OpenGLApp/CMakeFiles/MenuCallback.dir/include/Utils.cpp.obj	3d9ce96e551edb86
+13	856	6823710553515064	OpenGLApp/CMakeFiles/HelloWorld.dir/include/Main.cpp.obj	bdd8cafe77e80460
+1	558	6823710893855519	OpenGLApp/HelloWorld.exe	dc48df6eeb505187
+7	817	6823710897473203	OpenGLApp/CMakeFiles/MenuCallback.dir/include/Main.cpp.obj	146f3a8671879845
+12	852	6823710897835972	OpenGLApp/CMakeFiles/MenuCallback.dir/include/Tutorials/MenuCallback/MenuCallback.cpp.obj	610a33b9e42bb469
+853	1095	6823710900188057	OpenGLApp/MenuCallback.exe	37f8791afd304e43
