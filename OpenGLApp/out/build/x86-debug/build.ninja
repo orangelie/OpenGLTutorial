@@ -80,7 +80,7 @@ build cmake_object_order_depends_target_HelloWorld: phony || OpenGLApp\CMakeFile
 build OpenGLApp\CMakeFiles\HelloWorld.dir\include\Tutorials\HelloWorld\HelloWorld.cpp.obj: CXX_COMPILER__HelloWorld_Debug C$:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\include\Tutorials\HelloWorld\HelloWorld.cpp || cmake_object_order_depends_target_HelloWorld
   DEFINES = -DHELLOWORLD
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
-  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback
+  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
   OBJECT_DIR = OpenGLApp\CMakeFiles\HelloWorld.dir
   OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\HelloWorld.dir\include\Tutorials\HelloWorld
   TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\HelloWorld.dir\
@@ -89,7 +89,7 @@ build OpenGLApp\CMakeFiles\HelloWorld.dir\include\Tutorials\HelloWorld\HelloWorl
 build OpenGLApp\CMakeFiles\HelloWorld.dir\include\Main.cpp.obj: CXX_COMPILER__HelloWorld_Debug C$:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\include\Main.cpp || cmake_object_order_depends_target_HelloWorld
   DEFINES = -DHELLOWORLD
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
-  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback
+  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
   OBJECT_DIR = OpenGLApp\CMakeFiles\HelloWorld.dir
   OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\HelloWorld.dir\include
   TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\HelloWorld.dir\
@@ -98,7 +98,7 @@ build OpenGLApp\CMakeFiles\HelloWorld.dir\include\Main.cpp.obj: CXX_COMPILER__He
 build OpenGLApp\CMakeFiles\HelloWorld.dir\include\Utils.cpp.obj: CXX_COMPILER__HelloWorld_Debug C$:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\include\Utils.cpp || cmake_object_order_depends_target_HelloWorld
   DEFINES = -DHELLOWORLD
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
-  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback
+  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
   OBJECT_DIR = OpenGLApp\CMakeFiles\HelloWorld.dir
   OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\HelloWorld.dir\include
   TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\HelloWorld.dir\
@@ -108,7 +108,7 @@ build OpenGLApp\CMakeFiles\HelloWorld.dir\rc\appicon.rc.res: RC_COMPILER__HelloW
   DEFINES = -DHELLOWORLD
   DEP_FILE = OpenGLApp\CMakeFiles\HelloWorld.dir\rc\appicon.rc.res.d
   FLAGS = -DWIN32 -D_DEBUG
-  INCLUDES = -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback
+  INCLUDES = -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
   OBJECT_DIR = OpenGLApp\CMakeFiles\HelloWorld.dir
   OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\HelloWorld.dir\rc
   TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\HelloWorld.dir\
@@ -147,7 +147,7 @@ build cmake_object_order_depends_target_MenuCallback: phony || OpenGLApp\CMakeFi
 build OpenGLApp\CMakeFiles\MenuCallback.dir\include\Tutorials\MenuCallback\MenuCallback.cpp.obj: CXX_COMPILER__MenuCallback_Debug C$:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\include\Tutorials\MenuCallback\MenuCallback.cpp || cmake_object_order_depends_target_MenuCallback
   DEFINES = -DMENUCALLBACK
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
-  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback
+  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
   OBJECT_DIR = OpenGLApp\CMakeFiles\MenuCallback.dir
   OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\MenuCallback.dir\include\Tutorials\MenuCallback
   TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\MenuCallback.dir\
@@ -156,7 +156,7 @@ build OpenGLApp\CMakeFiles\MenuCallback.dir\include\Tutorials\MenuCallback\MenuC
 build OpenGLApp\CMakeFiles\MenuCallback.dir\include\Main.cpp.obj: CXX_COMPILER__MenuCallback_Debug C$:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\include\Main.cpp || cmake_object_order_depends_target_MenuCallback
   DEFINES = -DMENUCALLBACK
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
-  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback
+  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
   OBJECT_DIR = OpenGLApp\CMakeFiles\MenuCallback.dir
   OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\MenuCallback.dir\include
   TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\MenuCallback.dir\
@@ -165,7 +165,7 @@ build OpenGLApp\CMakeFiles\MenuCallback.dir\include\Main.cpp.obj: CXX_COMPILER__
 build OpenGLApp\CMakeFiles\MenuCallback.dir\include\Utils.cpp.obj: CXX_COMPILER__MenuCallback_Debug C$:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\include\Utils.cpp || cmake_object_order_depends_target_MenuCallback
   DEFINES = -DMENUCALLBACK
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
-  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback
+  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
   OBJECT_DIR = OpenGLApp\CMakeFiles\MenuCallback.dir
   OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\MenuCallback.dir\include
   TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\MenuCallback.dir\
@@ -175,7 +175,7 @@ build OpenGLApp\CMakeFiles\MenuCallback.dir\rc\appicon.rc.res: RC_COMPILER__Menu
   DEFINES = -DMENUCALLBACK
   DEP_FILE = OpenGLApp\CMakeFiles\MenuCallback.dir\rc\appicon.rc.res.d
   FLAGS = -DWIN32 -D_DEBUG
-  INCLUDES = -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback
+  INCLUDES = -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
   OBJECT_DIR = OpenGLApp\CMakeFiles\MenuCallback.dir
   OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\MenuCallback.dir\rc
   TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\MenuCallback.dir\
@@ -201,6 +201,73 @@ build OpenGLApp\MenuCallback.exe: CXX_EXECUTABLE_LINKER__MenuCallback_Debug Open
   TARGET_FILE = OpenGLApp\MenuCallback.exe
   TARGET_IMPLIB = OpenGLApp\MenuCallback.lib
   TARGET_PDB = OpenGLApp\MenuCallback.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target VertexArray
+
+
+#############################################
+# Order-only phony target for VertexArray
+
+build cmake_object_order_depends_target_VertexArray: phony || OpenGLApp\CMakeFiles\VertexArray.dir
+
+build OpenGLApp\CMakeFiles\VertexArray.dir\include\Tutorials\VertexArray\VertexArray.cpp.obj: CXX_COMPILER__VertexArray_Debug C$:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\include\Tutorials\VertexArray\VertexArray.cpp || cmake_object_order_depends_target_VertexArray
+  DEFINES = -DVERTEXARRAY
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
+  OBJECT_DIR = OpenGLApp\CMakeFiles\VertexArray.dir
+  OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\VertexArray.dir\include\Tutorials\VertexArray
+  TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\VertexArray.dir\
+  TARGET_PDB = OpenGLApp\VertexArray.pdb
+
+build OpenGLApp\CMakeFiles\VertexArray.dir\include\Main.cpp.obj: CXX_COMPILER__VertexArray_Debug C$:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\include\Main.cpp || cmake_object_order_depends_target_VertexArray
+  DEFINES = -DVERTEXARRAY
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
+  OBJECT_DIR = OpenGLApp\CMakeFiles\VertexArray.dir
+  OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\VertexArray.dir\include
+  TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\VertexArray.dir\
+  TARGET_PDB = OpenGLApp\VertexArray.pdb
+
+build OpenGLApp\CMakeFiles\VertexArray.dir\include\Utils.cpp.obj: CXX_COMPILER__VertexArray_Debug C$:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\include\Utils.cpp || cmake_object_order_depends_target_VertexArray
+  DEFINES = -DVERTEXARRAY
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  INCLUDES = -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -IC:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
+  OBJECT_DIR = OpenGLApp\CMakeFiles\VertexArray.dir
+  OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\VertexArray.dir\include
+  TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\VertexArray.dir\
+  TARGET_PDB = OpenGLApp\VertexArray.pdb
+
+build OpenGLApp\CMakeFiles\VertexArray.dir\rc\appicon.rc.res: RC_COMPILER__VertexArray_Debug C$:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\rc\appicon.rc || cmake_object_order_depends_target_VertexArray
+  DEFINES = -DVERTEXARRAY
+  DEP_FILE = OpenGLApp\CMakeFiles\VertexArray.dir\rc\appicon.rc.res.d
+  FLAGS = -DWIN32 -D_DEBUG
+  INCLUDES = -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\HelloWorld -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include\gl -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\.\include -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\MenuCallback -I C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\VertexArray
+  OBJECT_DIR = OpenGLApp\CMakeFiles\VertexArray.dir
+  OBJECT_FILE_DIR = OpenGLApp\CMakeFiles\VertexArray.dir\rc
+  TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\VertexArray.dir\
+  TARGET_PDB = OpenGLApp\VertexArray.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target VertexArray
+
+
+#############################################
+# Link the executable OpenGLApp\VertexArray.exe
+
+build OpenGLApp\VertexArray.exe: CXX_EXECUTABLE_LINKER__VertexArray_Debug OpenGLApp\CMakeFiles\VertexArray.dir\include\Tutorials\VertexArray\VertexArray.cpp.obj OpenGLApp\CMakeFiles\VertexArray.dir\include\Main.cpp.obj OpenGLApp\CMakeFiles\VertexArray.dir\include\Utils.cpp.obj OpenGLApp\CMakeFiles\VertexArray.dir\rc\appicon.rc.res
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  LINK_FLAGS = /machine:X86 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = opengl32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  LINK_PATH = -LIBPATH:C:\Users\parksangwo\Desktop\Github\OpenGLTutorial\OpenGLApp\OpenGLApp\lib
+  OBJECT_DIR = OpenGLApp\CMakeFiles\VertexArray.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = OpenGLApp\CMakeFiles\VertexArray.dir\
+  TARGET_FILE = OpenGLApp\VertexArray.exe
+  TARGET_IMPLIB = OpenGLApp\VertexArray.lib
+  TARGET_PDB = OpenGLApp\VertexArray.pdb
 
 
 #############################################
@@ -236,6 +303,10 @@ build MenuCallback: phony OpenGLApp\MenuCallback.exe
 
 build MenuCallback.exe: phony OpenGLApp\MenuCallback.exe
 
+build VertexArray: phony OpenGLApp\VertexArray.exe
+
+build VertexArray.exe: phony OpenGLApp\VertexArray.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -251,7 +322,7 @@ build all: phony OpenGLApp\all
 #############################################
 # Folder: C:/Users/parksangwo/Desktop/Github/OpenGLTutorial/OpenGLApp/out/build/x86-debug/OpenGLApp
 
-build OpenGLApp\all: phony OpenGLApp\HelloWorld.exe OpenGLApp\MenuCallback.exe
+build OpenGLApp\all: phony OpenGLApp\HelloWorld.exe OpenGLApp\MenuCallback.exe OpenGLApp\VertexArray.exe
 
 # =============================================================================
 # Built-in targets

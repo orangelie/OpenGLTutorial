@@ -1,0 +1,94 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "OpenGLApp",
+					"jsonFile" : "directory-OpenGLApp-Debug-2a7b27d3d39d42f07ae4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "OpenGLApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "OpenGLApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "HelloWorld::@140426274bb7bceae4d3",
+					"jsonFile" : "target-HelloWorld-Debug-baea8e6183d052feb263.json",
+					"name" : "HelloWorld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MenuCallback::@140426274bb7bceae4d3",
+					"jsonFile" : "target-MenuCallback-Debug-3c3289781c0b62659b1e.json",
+					"name" : "MenuCallback",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "VertexArray::@140426274bb7bceae4d3",
+					"jsonFile" : "target-VertexArray-Debug-d00e93cd38d592c4e471.json",
+					"name" : "VertexArray",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/parksangwo/Desktop/Github/OpenGLTutorial/OpenGLApp/out/build/x86-debug",
+		"source" : "C:/Users/parksangwo/Desktop/Github/OpenGLTutorial/OpenGLApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

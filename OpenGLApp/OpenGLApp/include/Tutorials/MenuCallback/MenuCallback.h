@@ -23,4 +23,9 @@ namespace GLCallback
 	void reshape(int width, int height);
 	void idle();
 	void mouse(int mouse, int state, int x, int y);
+
+	void mainMenu(int value);
+	void subMenu(int value);
+
+	void timer(int value);
 }

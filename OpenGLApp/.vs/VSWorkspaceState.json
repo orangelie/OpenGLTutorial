@@ -4,8 +4,9 @@
     "\\OpenGLApp",
     "\\OpenGLApp\\include",
     "\\OpenGLApp\\include\\Tutorials",
-    "\\OpenGLApp\\include\\Tutorials\\MenuCallback"
+    "\\OpenGLApp\\include\\Tutorials\\MenuCallback",
+    "\\OpenGLApp\\include\\Tutorials\\VertexArray"
   ],
-  "SelectedNode": "\\OpenGLApp\\include\\Tutorials\\MenuCallback\\MenuCallback.cpp",
+  "SelectedNode": "\\OpenGLApp\\include\\Main.cpp",
   "PreviewInSolutionExplorer": false
 }
